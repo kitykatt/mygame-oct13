@@ -1,0 +1,121 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Game
+</name>
+</assembly>
+<members>
+<member name="T:WindowsApp1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.amo1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.armour1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.boost">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.boost1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.boost2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.boost21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.dirt">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.gamebackground1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.gamebullet">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.ghost">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.gun1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.monster1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.monster2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.Pac1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.pixil_frame_0__8_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.shell">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.sitama">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.sitama1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.wall">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

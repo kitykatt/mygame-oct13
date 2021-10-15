@@ -1,0 +1,11 @@
+C:\Users\kjlop643\source\repos\CIS159\Game\bin\Debug\Game.exe.config
+C:\Users\kjlop643\source\repos\CIS159\Game\bin\Debug\Game.exe
+C:\Users\kjlop643\source\repos\CIS159\Game\bin\Debug\Game.pdb
+C:\Users\kjlop643\source\repos\CIS159\Game\bin\Debug\Game.xml
+C:\Users\kjlop643\source\repos\CIS159\Game\obj\Debug\Game.vbprojAssemblyReference.cache
+C:\Users\kjlop643\source\repos\CIS159\Game\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\kjlop643\source\repos\CIS159\Game\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\kjlop643\source\repos\CIS159\Game\obj\Debug\Game.vbproj.GenerateResource.cache
+C:\Users\kjlop643\source\repos\CIS159\Game\obj\Debug\Game.exe
+C:\Users\kjlop643\source\repos\CIS159\Game\obj\Debug\Game.xml
+C:\Users\kjlop643\source\repos\CIS159\Game\obj\Debug\Game.pdb
